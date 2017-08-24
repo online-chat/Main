@@ -1,4 +1,4 @@
-var seconds = 14;
+var seconds = 12;
 var foo;
 
 function redirect() {
