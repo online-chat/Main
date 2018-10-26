@@ -2,7 +2,7 @@ var seconds = 12;
 var foo;
 
 function redirect() {
-  window.open('https://c.tian.science:4545', '_self');
+  window.open('http://chat.t69.us', '_self');
 }
 
 function updateSecs() {
